@@ -1,0 +1,7 @@
+from PIL import Image
+from urllib.request import urlopen
+
+url = "https://scikit-learn.org/stable/_images/sphx_glr_plot_svm_margin_002.png"
+
+image = Image.open(urlopen(url))
+image.show() 
