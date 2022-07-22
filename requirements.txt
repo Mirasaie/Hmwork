@@ -4,3 +4,10 @@ numpy
 matplotlib
 sklearn
 ipykernel
+pandas
+seaborn
+matplotlib
+sklearn
+install
+jupyterlab
+kaggle
